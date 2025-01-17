@@ -173,6 +173,12 @@
       "nome": "Ambulatório Bem Estar",
       "cnpj": "80.123.456/0001-29",
       "cnae": "8630-5/09"
+    },
+        {
+      "id": "30",
+      "nome": "Ambulatório Bem Estar2",
+      "cnpj": "80.123.456/0001-25",
+      "cnae": "8630-5/07"
     }
   ]
 }
