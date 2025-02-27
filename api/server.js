@@ -33,15 +33,15 @@ server.use(
 
 // Returned resources will be wrapped in a body property
 router.render = (req, res) => {
-  if (req.method === 'GET' && req.url && !req.route.path.includes(':')) {
-    const headers = res.getHeaders()
-    res.jsonp({
-      data: res.locals.data,
-      items: headers['x-total-count'],
-    })
-  } else {
-    res.jsonp(res.locals.data)
-  }
+  // if (req.method === 'GET' && req.url && !req.route.path.includes(':')) {
+  //   const headers = res.getHeaders()
+  //   res.jsonp({
+  //     data: res.locals.data,
+  //     items: headers['x-total-count'],
+  //   })
+  // } else {
+  res.jsonp(res.locals.data)
+  // }
 }
 
 server.use(router)
