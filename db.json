@@ -110,9 +110,9 @@
     },
     {
       "id": 19,
-      "nome": "Consultório Mais Saúde",
-      "cnpj": "90.123.456/0001-19",
-      "cnae": "8621-8/09"
+      "nome": "Consultório Mais Saúde2",
+      "cnpj": "22.333.333/3333-33",
+      "cnae": "8621-8/00"
     },
     {
       "id": 20,
@@ -131,12 +131,108 @@
       "nome": "Ambulatório Vida Nova",
       "cnpj": "13.456.789/0001-22",
       "cnae": "8630-5/05"
+    }
+  ],
+  "profissionais-de-saude": [
+    {
+      "id": 1,
+      "nome": "João Carlos da Silva",
+      "apelidoProfissional": "Dr. João Carlos",
+      "registroProfissional": "CRM-123456",
+      "especialidade": {
+        "id": 2,
+        "nome": "Cardiologia"
+      }
     },
     {
-      "id": 23,
-      "nome": "Cemi Teste",
-      "cnpj": "12.345.678/0001-01",
-      "cnae": "2000-0/00"
+      "id": 2,
+      "nome": "Maria Fernanda Oliveira",
+      "apelidoProfissional": "Enf. Maria Fernanda",
+      "especialidade": {
+        "id": 11,
+        "nome": "Enfermagem"
+      },
+      "registroProfissional": "COREN-654321"
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Eduardo de Souza",
+      "apelidoProfissional": "Téc. Enfermagem Carlos Eduardo",
+      "especialidade": {
+        "id": 12,
+        "nome": "Técnico de Enfermagem"
+      },
+      "registroProfissional": "COREN-789012"
+    },
+    {
+      "id": 4,
+      "nome": "Fernanda Cristina Lima",
+      "apelidoProfissional": "Dra. Fernanda Cristina",
+      "especialidade": {
+        "id": 13,
+        "nome": "Odontologia"
+      },
+      "registroProfissional": "CRO-345678"
+    },
+    {
+      "id": 5,
+      "nome": "Ricardo Mendes Albuquerque",
+      "apelidoProfissional": "Dr. Ricardo Mendes",
+      "especialidade": {
+        "id": 14,
+        "nome": "Psicologia"
+      },
+      "registroProfissional": "CRP-901234"
+    },
+    {
+      "id": 6,
+      "nome": "Camila Ferreira dos Santos",
+      "apelidoProfissional": "Dra. Camila Ferreira",
+      "especialidade": {
+        "id": 15,
+        "nome": "Nutrição"
+      },
+      "registroProfissional": "CRN-567890"
+    },
+    {
+      "id": 7,
+      "nome": "Gustavo Henrique Ramos",
+      "apelidoProfissional": "Dr. Gustavo Henrique",
+      "especialidade": {
+        "id": 16,
+        "nome": "Fisioterapia"
+      },
+      "registroProfissional": "CREFITO-112233"
+    },
+    {
+      "id": 8,
+      "nome": "Thiago Almeida Pereira",
+      "apelidoProfissional": "Dr. Thiago Almeida",
+      "especialidade": {
+        "id": 17,
+        "nome": "Farmácia"
+      },
+      "registroProfissional": "CRF-445566"
+    },
+    {
+      "id": 9,
+      "nome": "Larissa Martins Soares",
+      "apelidoProfissional": "Assist. Social Larissa Martins",
+      "especialidade": {
+        "id": 18,
+        "nome": "Serviço Social"
+      },
+      "registroProfissional": "CRESS-778899"
+    },
+    {
+      "id": 10,
+      "nome": "Paulo Henrique Castro",
+      "apelidoProfissional": "Dr. Paulo Henrique",
+      "especialidade": {
+        "id": 19,
+        "nome": "Fonoaudiologia"
+      },
+      "registroProfissional": "CREFONO-223344"
     }
   ],
   "pacientes": [
@@ -207,8 +303,278 @@
       "id": 10,
       "nome": "Ricardo Nogueira",
       "email": "ricardo.nogueira@example.com",
-      "endereco": "Rua do Sol, 515, Manaus, AM",
-      "telefone": "(92) 91234-5678"
+      "telefone": "(92) 91234-5678",
+      "endereco": "Rua do Sol, 515, Manaus, AM"
+    },
+    {
+      "nome": "Paciente teste2",
+      "email": "paciente.teste2@email.com",
+      "telefone": "(21) 99999-0000",
+      "endereco": "Rua teste 2",
+      "id": 11
+    }
+  ],
+  "servicos": [
+    {
+      "id": 1,
+      "nome": "Atendimento médico",
+      "descricao": "Consulta com profissionais de saúde para diagnóstico e tratamento de doenças."
+    },
+    {
+      "id": 2,
+      "nome": "Enfermagem",
+      "descricao": "Cuidados de enfermagem como administração de medicamentos, curativos e monitoramento de sinais vitais."
+    },
+    {
+      "id": 3,
+      "nome": "Exames laboratoriais",
+      "descricao": "Realização de exames para análise de amostras biológicas, como sangue, urina e fezes."
+    },
+    {
+      "id": 4,
+      "nome": "Exames de imagem",
+      "descricao": "Realização de exames como raios-X, ultrassonografia, tomografia e ressonância magnética."
+    },
+    {
+      "id": 5,
+      "nome": "Atendimento de urgência e emergência",
+      "descricao": "Assistência a pacientes com condições graves ou que exigem cuidados médicos imediatos."
+    },
+    {
+      "id": 6,
+      "nome": "Consultas especializadas",
+      "descricao": "Atendimento com médicos especialistas, como cardiologistas, dermatologistas, pediatras, entre outros."
+    },
+    {
+      "id": 7,
+      "nome": "Vacinação",
+      "descricao": "Administração de vacinas para prevenção de doenças."
+    },
+    {
+      "id": 8,
+      "nome": "Reabilitação física",
+      "descricao": "Tratamentos para recuperação de movimentos e capacidades físicas após lesões ou cirurgias."
+    },
+    {
+      "id": 9,
+      "nome": "Saúde mental",
+      "descricao": "Consultas e tratamentos para questões relacionadas à saúde mental, incluindo terapia psicológica e psiquiátrica."
+    },
+    {
+      "id": 10,
+      "nome": "Odontologia",
+      "descricao": "Atendimento odontológico, incluindo limpeza, restaurações, extrações e outros cuidados dentários."
+    },
+    {
+      "id": 11,
+      "nome": "Serviço teste",
+      "descricao": "Testando5!"
+    }
+  ],
+  "procedimentos": [
+    {
+      "id": 1,
+      "nome": "Curativo simples",
+      "descricao": "Troca de curativos em ferimentos leves para evitar infecções."
+    },
+    {
+      "id": 2,
+      "nome": "Curativo complexo",
+      "descricao": "Tratamento de ferimentos extensos ou infectados, incluindo limpeza e troca de curativos."
+    },
+    {
+      "id": 3,
+      "nome": "Sutura de ferimentos",
+      "descricao": "Fechamento de cortes profundos com pontos cirúrgicos para acelerar a cicatrização."
+    },
+    {
+      "id": 4,
+      "nome": "Retirada de pontos",
+      "descricao": "Remoção de suturas após cicatrização adequada da pele."
+    },
+    {
+      "id": 5,
+      "nome": "Administração de medicamentos injetáveis",
+      "descricao": "Aplicação de medicamentos via intramuscular, subcutânea ou intravenosa conforme prescrição médica."
+    },
+    {
+      "id": 6,
+      "nome": "Nebulização",
+      "descricao": "Inalação de medicamentos para tratamento de problemas respiratórios."
+    },
+    {
+      "id": 7,
+      "nome": "Coleta de sangue para exames",
+      "descricao": "Procedimento para coleta de amostras sanguíneas destinadas a exames laboratoriais."
+    },
+    {
+      "id": 8,
+      "nome": "Eletrocardiograma (ECG)",
+      "descricao": "Exame para avaliação da atividade elétrica do coração."
+    },
+    {
+      "id": 9,
+      "nome": "Ultrassonografia",
+      "descricao": "Exame de imagem utilizando ondas sonoras para visualizar órgãos internos."
+    },
+    {
+      "id": 10,
+      "nome": "Pequenas cirurgias ambulatoriais",
+      "descricao": "Procedimentos cirúrgicos de baixa complexidade realizados sem necessidade de internação."
+    },
+    {
+      "id": 11,
+      "nome": "Teste de glicemia",
+      "descricao": "Medição do nível de glicose no sangue para controle do diabetes."
+    },
+    {
+      "id": 12,
+      "nome": "Consulta odontológica preventiva",
+      "descricao": "Avaliação odontológica para prevenção e tratamento precoce de problemas bucais."
+    },
+    {
+      "id": 13,
+      "nome": "Extração dentária",
+      "descricao": "Remoção de dentes comprometidos por cáries ou outras condições."
+    },
+    {
+      "id": 14,
+      "nome": "Exame preventivo (Papanicolau)",
+      "descricao": "Coleta de material do colo do útero para detecção precoce de câncer e infecções."
+    },
+    {
+      "id": 15,
+      "nome": "Teste rápido para Infecções Sexualmente Transmissíveis (ISTs)",
+      "descricao": "Exames rápidos para detecção de HIV, sífilis, hepatites B e C."
+    }
+  ],
+  "especialidades": [
+    {
+      "id": 1,
+      "nome": "Clínico Geral",
+      "descricao": "Especialista em diagnóstico e tratamento de doenças comuns."
+    },
+    {
+      "id": 2,
+      "nome": "Cardiologia",
+      "descricao": "Especialidade médica voltada para doenças do coração e sistema circulatório."
+    },
+    {
+      "id": 3,
+      "nome": "Ortopedia",
+      "descricao": "Especialidade que trata lesões e doenças do sistema musculoesquelético."
+    },
+    {
+      "id": 4,
+      "nome": "Ginecologia",
+      "descricao": "Especialidade que cuida da saúde da mulher e do sistema reprodutivo feminino."
+    },
+    {
+      "id": 5,
+      "nome": "Pediatria",
+      "descricao": "Especialidade médica dedicada à saúde de bebês, crianças e adolescentes."
+    },
+    {
+      "id": 6,
+      "nome": "Psiquiatria",
+      "descricao": "Especialidade focada no diagnóstico e tratamento de transtornos mentais."
+    },
+    {
+      "id": 7,
+      "nome": "Dermatologia",
+      "descricao": "Especialidade médica que trata doenças da pele, cabelos e unhas."
+    },
+    {
+      "id": 8,
+      "nome": "Oftalmologia",
+      "descricao": "Especialidade responsável pelo diagnóstico e tratamento de doenças dos olhos."
+    },
+    {
+      "id": 9,
+      "nome": "Neurologia",
+      "descricao": "Especialidade médica que trata doenças do sistema nervoso central e periférico."
+    },
+    {
+      "id": 10,
+      "nome": "Endocrinologia",
+      "descricao": "Especialidade que trata doenças hormonais e metabólicas."
+    },
+    {
+      "id": 11,
+      "nome": "Enfermagem",
+      "descricao": "Profissional responsável pelo cuidado e assistência a pacientes em diversas áreas da saúde."
+    },
+    {
+      "id": 12,
+      "nome": "Técnico de Enfermagem",
+      "descricao": "Profissional que auxilia enfermeiros na prestação de cuidados aos pacientes."
+    },
+    {
+      "id": 13,
+      "nome": "Odontologia",
+      "descricao": "Especialista na prevenção, diagnóstico e tratamento de doenças bucais e dentárias."
+    },
+    {
+      "id": 14,
+      "nome": "Psicologia",
+      "descricao": "Profissional que atua no diagnóstico e tratamento de transtornos emocionais e comportamentais."
+    },
+    {
+      "id": 15,
+      "nome": "Nutrição",
+      "descricao": "Especialista na promoção da alimentação saudável e no tratamento de distúrbios alimentares."
+    },
+    {
+      "id": 16,
+      "nome": "Fisioterapia",
+      "descricao": "Profissional que atua na reabilitação física e prevenção de lesões musculoesqueléticas."
+    },
+    {
+      "id": 17,
+      "nome": "Farmácia",
+      "descricao": "Especialista na manipulação, distribuição e orientação sobre o uso de medicamentos."
+    },
+    {
+      "id": 18,
+      "nome": "Serviço Social",
+      "descricao": "Profissional que trabalha na assistência e orientação social de indivíduos e comunidades."
+    },
+    {
+      "id": 19,
+      "nome": "Fonoaudiologia",
+      "descricao": "Especialista no diagnóstico e tratamento de distúrbios da comunicação oral e escrita."
+    }
+  ],
+  "unidades-de-saude-servicos": [
+    {
+      "unidadeDeSaude": {
+        "id": 4,
+        "nome": "Clínica Cuidar Mais",
+        "cnpj": "45.678.901/0001-04",
+        "cnae": "8621-8/04"
+      },
+      "servico": {
+        "id": 4,
+        "nome": "Exames de imagem",
+        "descricao": "Realização de exames como raios-X, ultrassonografia, tomografia e ressonância magnética.",
+        "itemLabel": "Exames de imagem"
+      },
+      "id": 1
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 4,
+        "nome": "Clínica Cuidar Mais",
+        "cnpj": "45.678.901/0001-04",
+        "cnae": "8621-8/04"
+      },
+      "servico": {
+        "id": 5,
+        "nome": "Atendimento de urgência e emergência",
+        "descricao": "Assistência a pacientes com condições graves ou que exigem cuidados médicos imediatos.",
+        "itemLabel": "Atendimento de urgência e emergência"
+      },
+      "id": 2
     }
   ]
 }
