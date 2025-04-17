@@ -37,10 +37,10 @@
       "cnae": "8621-8/06"
     },
     {
-      "id": 7,
       "nome": "Clínica Saúde Integral",
       "cnpj": "78.901.234/0001-07",
-      "cnae": "8621-8/07"
+      "cnae": "8621-8/07",
+      "id": 7
     },
     {
       "id": 8,
@@ -131,6 +131,18 @@
       "nome": "Ambulatório Vida Nova",
       "cnpj": "13.456.789/0001-22",
       "cnae": "8630-5/05"
+    },
+    {
+      "nome": "Clínica teste",
+      "cnpj": "22.333.333/3333-33",
+      "cnae": "",
+      "id": 23
+    },
+    {
+      "nome": "Unidade Teste",
+      "cnpj": "22.333.333/3333-33",
+      "cnae": "2323-2/32",
+      "id": 24
     }
   ],
   "profissionais-de-saude": [
@@ -241,7 +253,7 @@
       "nome": "Ana Silva",
       "email": "ana.silva@example.com",
       "endereco": "Rua das Flores, 123, São Paulo, SP",
-      "telefone": "(11) 98765-4321"
+      "telefone": "5511987654321"
     },
     {
       "id": 2,
@@ -312,6 +324,34 @@
       "telefone": "(21) 99999-0000",
       "endereco": "Rua teste 2",
       "id": 11
+    },
+    {
+      "nome": "Juliana",
+      "email": "juliana@gmail.com",
+      "telefone": "(21) 99148-9682",
+      "endereco": "Endereço teste",
+      "id": 12
+    },
+    {
+      "nome": "Fabíola Lemos",
+      "email": "fp.lemos@gmail.com",
+      "telefone": "(21) 98839-9594",
+      "endereco": "",
+      "id": 13
+    },
+    {
+      "nome": "Villarzinho",
+      "email": "villarzinho@gmail.com",
+      "telefone": "(21) 98828-1616",
+      "endereco": "",
+      "id": 14
+    },
+    {
+      "nome": "Juliana Braz",
+      "email": "ju.braz@gmail.com",
+      "telefone": "(21) 99148-9682",
+      "endereco": "",
+      "id": 15
     }
   ],
   "servicos": [
@@ -575,6 +615,778 @@
         "itemLabel": "Atendimento de urgência e emergência"
       },
       "id": 2
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 2,
+        "nome": "Enfermagem",
+        "descricao": "Cuidados de enfermagem como administração de medicamentos, curativos e monitoramento de sinais vitais."
+      },
+      "id": 3
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 6,
+        "nome": "Consultas especializadas",
+        "descricao": "Atendimento com médicos especialistas, como cardiologistas, dermatologistas, pediatras, entre outros."
+      },
+      "id": 4
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 5,
+        "nome": "Atendimento de urgência e emergência",
+        "descricao": "Assistência a pacientes com condições graves ou que exigem cuidados médicos imediatos."
+      },
+      "id": 5
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 8,
+        "nome": "Reabilitação física",
+        "descricao": "Tratamentos para recuperação de movimentos e capacidades físicas após lesões ou cirurgias."
+      },
+      "id": 6
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 11,
+        "nome": "Serviço teste",
+        "descricao": "Testando5!"
+      },
+      "id": 7
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 4,
+        "nome": "Exames de imagem",
+        "descricao": "Realização de exames como raios-X, ultrassonografia, tomografia e ressonância magnética."
+      },
+      "id": 8
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 1,
+        "nome": "Atendimento médico",
+        "descricao": "Consulta com profissionais de saúde para diagnóstico e tratamento de doenças."
+      },
+      "id": 9
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 3,
+        "nome": "Exames laboratoriais",
+        "descricao": "Realização de exames para análise de amostras biológicas, como sangue, urina e fezes."
+      },
+      "id": 10
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 7,
+        "nome": "Vacinação",
+        "descricao": "Administração de vacinas para prevenção de doenças."
+      },
+      "id": 11
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 9,
+        "nome": "Saúde mental",
+        "descricao": "Consultas e tratamentos para questões relacionadas à saúde mental, incluindo terapia psicológica e psiquiátrica."
+      },
+      "id": 12
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 8,
+        "nome": "Clínica Viver Bem",
+        "cnpj": "89.012.345/0001-08",
+        "cnae": "8621-8/08"
+      },
+      "servico": {
+        "id": 10,
+        "nome": "Odontologia",
+        "descricao": "Atendimento odontológico, incluindo limpeza, restaurações, extrações e outros cuidados dentários."
+      },
+      "id": 13
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Fabíola Lemos",
+      "usuario": "fabiola.lemos",
+      "email": "fabiola.lemos@gmail.com",
+      "senha": "R@pido00",
+      "perfilDeAcesso": {
+        "nome": "Acesso customizado",
+        "descricao": "Testando tipos de acesso.",
+        "id": 5
+      },
+      "id": 1,
+      "telefone": "(21) 98825-3400"
+    },
+    {
+      "nome": "Bruno Costa",
+      "usuario": "bc.costa",
+      "email": "bc.costa@gmail.com",
+      "senha": "R@pido00",
+      "perfilDeAcesso": {
+        "id": 1,
+        "nome": "Administrador"
+      },
+      "id": 2,
+      "telefone": "(21) 98125-5709"
+    },
+    {
+      "id": 3,
+      "nome": "Imed",
+      "usuario": "imed.teste",
+      "senha": "imed2025",
+      "email": "imed.teste@gmail.com",
+      "telefone": "(21) 90012-3345",
+      "perfilDeAcesso": {
+        "id": 5,
+        "nome": "Acesso customizado"
+      }
+    },
+    {
+      "nome": "Juliana Braz",
+      "usuario": "ju.braz",
+      "email": "ju.braz@email.com",
+      "senha": "Jujubinha",
+      "perfilDeAcesso": {
+        "id": 3,
+        "nome": "Recepcionista"
+      },
+      "id": 4,
+      "telefone": "(21) 93345-6099"
+    },
+    {
+      "nome": "Recepcionista Teste",
+      "usuario": "recepcionista.teste",
+      "email": "recepcionista.teste@gmail.com",
+      "senha": "Rapido01",
+      "perfilDeAcesso": {
+        "id": 3,
+        "nome": "Recepcionista"
+      },
+      "id": 5,
+      "telefone": "(21) 98876-5433"
+    }
+  ],
+  "modulos": [
+    {
+      "id": 1,
+      "nome": "Home",
+      "caminho": ""
+    },
+    {
+      "id": 2,
+      "nome": "Dashboard",
+      "caminho": ""
+    },
+    {
+      "id": 3,
+      "nome": "Atendimento",
+      "caminho": ""
+    },
+    {
+      "id": 4,
+      "nome": "Laudo",
+      "caminho": ""
+    },
+    {
+      "id": 5,
+      "nome": "Faturamento",
+      "caminho": ""
+    },
+    {
+      "id": 6,
+      "nome": "Financeiro",
+      "caminho": ""
+    },
+    {
+      "id": 7,
+      "nome": "Estoque",
+      "caminho": ""
+    },
+    {
+      "id": 8,
+      "nome": "Relatório",
+      "caminho": ""
+    },
+    {
+      "id": 9,
+      "nome": "Chat",
+      "caminho": ""
+    },
+    {
+      "id": 10,
+      "nome": "Configurações",
+      "caminho": ""
+    }
+  ],
+  "sub-modulos": [
+    {
+      "id": 1,
+      "nome": "Unidade de Saúde",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 2,
+      "nome": "Profissional de Saúde",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 3,
+      "nome": "Paciente",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 4,
+      "nome": "Serviço",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 5,
+      "nome": "Especialidade",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 6,
+      "nome": "Procedimento",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 7,
+      "nome": "Convênio",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 8,
+      "nome": "Perfil de Acesso",
+      "caminho": "",
+      "moduloId": 10
+    },
+    {
+      "id": 9,
+      "nome": "Usuário",
+      "caminho": "",
+      "moduloId": 10
+    }
+  ],
+  "perfis-de-acesso": [
+    {
+      "nome": "Administrador",
+      "descricao": "Acesso total ao sistema (como por exemplo: visualização, cadastros, edições e exclusões em geral, configurações, dashboards e relatórios)",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Profissional de Saúde",
+      "descricao": "Pode gerenciar os atendimentos, mas não gerenciar usuários"
+    },
+    {
+      "id": 3,
+      "nome": "Recepcionista",
+      "descricao": "Pode cadastrar pacientes e agendar consultas, mas não acessar prontuários médicos"
+    },
+    {
+      "id": 4,
+      "nome": "Paciente",
+      "descricao": "Apenas acessa seu próprio histórico e agenda consultas"
+    },
+    {
+      "nome": "Acesso customizado",
+      "descricao": "Testando tipos de acesso.",
+      "id": 5
+    }
+  ],
+  "perfis-de-acesso-permissoes": [
+    {
+      "perfilDeAcesso": {
+        "id": 1,
+        "nome": "Administrador"
+      },
+      "modulo": {
+        "id": 10,
+        "nome": "Configurações"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 30,
+        "nome": "Todas"
+      },
+      "id": 1
+    },
+    {
+      "id": 2,
+      "perfilDeAcesso": {
+        "id": 3,
+        "nome": "Recepcionista"
+      },
+      "modulo": {
+        "id": 10,
+        "nome": "Configurações"
+      },
+      "subModulo": {
+        "id": 3,
+        "nome": "Paciente",
+        "moduloId": 10
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      }
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 5,
+        "nome": "Acesso customizado"
+      },
+      "modulo": {
+        "id": 10,
+        "nome": "Configurações"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      },
+      "id": 3
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 6,
+        "nome": "Perfil teste"
+      },
+      "modulo": {
+        "id": 10,
+        "nome": "Configurações"
+      },
+      "subModulo": {
+        "id": 9,
+        "nome": "Usuário",
+        "moduloId": 10
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      },
+      "id": 4
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 1,
+        "nome": "Administrador"
+      },
+      "modulo": {
+        "id": 1,
+        "nome": "Home"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      },
+      "id": 5
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 1,
+        "nome": "Administrador"
+      },
+      "modulo": {
+        "id": 3,
+        "nome": "Atendimento"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      },
+      "id": 7
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 1,
+        "nome": "Administrador"
+      },
+      "modulo": {
+        "id": 2,
+        "nome": "Dashboard"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      },
+      "id": 8
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 5,
+        "nome": "Acesso customizado"
+      },
+      "modulo": {
+        "id": 8,
+        "nome": "Relatório"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 30,
+        "nome": "Todas"
+      },
+      "id": 9
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 1,
+        "nome": "Administrador"
+      },
+      "modulo": {
+        "id": 9,
+        "nome": "Chat"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 30,
+        "nome": "Todas"
+      },
+      "id": 10
+    }
+  ],
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Ana Silva",
+      "telefone": "(11) 95678-1234"
+    }
+  ],
+  "chats-whatsapp": [
+    {
+      "id": 1,
+      "mensagem": "Mensagem enviada!",
+      "telefone": "5521981255709",
+      "datIncl": "2025-04-02 16:34:54",
+      "zaapId": "3999984263738042930CD6ECDE9VDWSA",
+      "messageId": "D241XXXX732339502B68",
+      "type": "DeliveryCallback",
+      "pacienteId": null,
+      "usuarioId": null
+    },
+    {
+      "id": 2,
+      "mensagem": "Mensagem recebida!",
+      "telefone": "5511987654321",
+      "datIncl": "2025-04-02 16:35:54",
+      "zaapId": "3999984263738042930CD6ECDE9VDWSA",
+      "messageId": "D241XXXX732339502B68",
+      "type": "ReceivedCallback",
+      "pacienteId": null,
+      "usuarioId": null
+    },
+    {
+      "mensagem": "Testando mensagem de envio!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-14T18:24:22.281Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 3
+    },
+    {
+      "mensagem": "Estou aguardando o seu retorno!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-14T18:24:48.304Z",
+      "pacienteId": 2,
+      "usuarioId": 2,
+      "id": 4
+    },
+    {
+      "mensagem": "Testando mensagem de envio!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-14T18:53:42.329Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 5
+    },
+    {
+      "mensagem": "Testando mensagem de envio!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-14T18:53:47.848Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 6
+    },
+    {
+      "mensagem": "Testando mensagem de envio!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-14T18:53:51.369Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 7
+    },
+    {
+      "mensagem": "Teste",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T14:59:03.303Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 8
+    },
+    {
+      "mensagem": "Testando mensagem de envio!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T18:25:04.195Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 9
+    },
+    {
+      "mensagem": "Teste",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T18:39:55.759Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 10
+    },
+    {
+      "mensagem": "Novo teste",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T18:40:08.780Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 11
+    },
+    {
+      "mensagem": "Teste",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T19:31:14.659Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 12
+    },
+    {
+      "mensagem": "Teste",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T19:31:16.000Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 13
+    },
+    {
+      "mensagem": "Teste de um novo envio!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T20:08:31.753Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 14
+    },
+    {
+      "mensagem": "Mais uma nova mensagem",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T20:21:35.283Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 15
+    },
+    {
+      "mensagem": "Texto",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T20:45:11.934Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 16
+    },
+    {
+      "mensagem": "Mais uma nova mensagem!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T20:54:16.377Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 17
+    },
+    {
+      "mensagem": "Mais uma nova mensagem!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-15T21:51:38.181Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 18
+    },
+    {
+      "mensagem": "Outra nova mensagem!",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-16T14:10:14.420Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 19
+    },
+    {
+      "mensagem": "Teste 😁😆😃",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-16T14:47:17.676Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 20
+    },
+    {
+      "mensagem": "😆😁",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-16T15:03:32.117Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 21
+    },
+    {
+      "mensagem": "Teste",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-16T16:24:40.771Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 22
+    },
+    {
+      "mensagem": "Teste",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-16T16:24:44.982Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 23
+    },
+    {
+      "mensagem": "Teste😃",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-16T16:24:57.245Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 24
+    },
+    {
+      "mensagem": "Teste de uma nova mensagem! 🤪",
+      "telefone": "5521981255709",
+      "type": "DeliveryCallback",
+      "datIncl": "2025-04-16T20:26:02.509Z",
+      "pacienteId": 1,
+      "usuarioId": 2,
+      "id": 25
     }
   ]
 }
