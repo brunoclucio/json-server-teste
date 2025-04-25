@@ -3,146 +3,140 @@
     {
       "id": 1,
       "nome": "Clínica Saúde Total",
-      "cnpj": "12.345.678/0001-01",
-      "cnae": "8621-8/01"
+      "cnpj": "12345678000101",
+      "cnae": "8621801"
     },
     {
       "id": 2,
       "nome": "Clínica Vida Plena",
-      "cnpj": "23.456.789/0001-02",
-      "cnae": "8621-8/02"
+      "cnpj": "23456789000102",
+      "cnae": "8621802"
     },
     {
       "id": 3,
       "nome": "Clínica Bem Estar",
-      "cnpj": "34.567.890/0001-03",
-      "cnae": "8621-8/03"
+      "cnpj": "34567890000103",
+      "cnae": "8621803"
     },
     {
       "id": 4,
       "nome": "Clínica Cuidar Mais",
-      "cnpj": "45.678.901/0001-04",
-      "cnae": "8621-8/04"
+      "cnpj": "45678901000104",
+      "cnae": "8621804"
     },
     {
       "id": 5,
       "nome": "Clínica Nova Esperança",
-      "cnpj": "56.789.012/0001-05",
-      "cnae": "8621-8/05"
+      "cnpj": "56789012000105",
+      "cnae": "8621805"
     },
     {
       "id": 6,
       "nome": "Clínica Mais Saúde",
-      "cnpj": "67.890.123/0001-06",
-      "cnae": "8621-8/06"
+      "cnpj": "67890123000106",
+      "cnae": "8621806"
     },
     {
       "nome": "Clínica Saúde Integral",
-      "cnpj": "78.901.234/0001-07",
-      "cnae": "8621-8/07",
+      "cnpj": "78901234000107",
+      "cnae": "8621807",
       "id": 7
     },
     {
       "id": 8,
       "nome": "Clínica Viver Bem",
-      "cnpj": "89.012.345/0001-08",
-      "cnae": "8621-8/08"
+      "cnpj": "89012345000108",
+      "cnae": "8621808"
     },
     {
       "id": 9,
       "nome": "Clínica Saúde em Dia",
-      "cnpj": "90.123.456/0001-09",
-      "cnae": "8621-8/09"
+      "cnpj": "90123456000109",
+      "cnae": "8621809"
     },
     {
       "id": 10,
       "nome": "Clínica Vida Longa",
-      "cnpj": "55.555.555/5555-55",
-      "cnae": "1111-1/11"
+      "cnpj": "55555555555555",
+      "cnae": "1111111"
     },
     {
       "id": 11,
       "nome": "Consultório Vida Saudável",
-      "cnpj": "12.345.678/0001-11",
-      "cnae": "8621-8/01"
+      "cnpj": "12345678000111",
+      "cnae": "8621801"
     },
     {
       "id": 12,
       "nome": "Consultório Bem Estar",
-      "cnpj": "23.456.789/0001-12",
-      "cnae": "8621-8/02"
+      "cnpj": "23456789000112",
+      "cnae": "8621802"
     },
     {
       "id": 13,
       "nome": "Consultório Saúde Total",
-      "cnpj": "34.567.890/0001-13",
-      "cnae": "8621-8/03"
+      "cnpj": "34567890000113",
+      "cnae": "8621803"
     },
     {
       "id": 14,
       "nome": "Consultório Vida Plena",
-      "cnpj": "45.678.901/0001-14",
-      "cnae": "8621-8/04"
+      "cnpj": "45678901000114",
+      "cnae": "8621804"
     },
     {
       "id": 15,
       "nome": "Consultório Nova Esperança",
-      "cnpj": "56.789.012/0001-15",
-      "cnae": "8621-8/05"
+      "cnpj": "56789012000115",
+      "cnae": "8621805"
     },
     {
       "id": 16,
       "nome": "Consultório Cuidar Mais",
-      "cnpj": "67.890.123/0001-16",
-      "cnae": "8621-8/06"
+      "cnpj": "67890123000116",
+      "cnae": "8621806"
     },
     {
       "id": 17,
       "nome": "Consultório Saúde em Dia",
-      "cnpj": "78.901.234/0001-17",
-      "cnae": "8621-8/07"
+      "cnpj": "78901234000117",
+      "cnae": "8621807"
     },
     {
       "id": 18,
       "nome": "Consultório Médico Central",
-      "cnpj": "89.012.345/0001-18",
-      "cnae": "8621-8/08"
+      "cnpj": "89012345000118",
+      "cnae": "8621808"
     },
     {
       "id": 19,
       "nome": "Consultório Mais Saúde2",
-      "cnpj": "22.333.333/3333-33",
-      "cnae": "8621-8/00"
+      "cnpj": "22333333333333",
+      "cnae": "8621800"
     },
     {
       "id": 20,
       "nome": "Consultório Saúde Integral",
-      "cnpj": "01.234.567/0001-20",
-      "cnae": "8621-8/10"
+      "cnpj": "01234567000120",
+      "cnae": "8621810"
     },
     {
       "id": 21,
       "nome": "Ambulatório Geral",
-      "cnpj": "02.345.678/0001-21",
-      "cnae": "8630-5/01"
+      "cnpj": "02345678000121",
+      "cnae": "8630501"
     },
     {
       "id": 22,
       "nome": "Ambulatório Vida Nova",
-      "cnpj": "13.456.789/0001-22",
-      "cnae": "8630-5/05"
+      "cnpj": "13456789000122",
+      "cnae": "8630505"
     },
     {
       "nome": "Clínica teste",
-      "cnpj": "22.333.333/3333-33",
+      "cnpj": "22333333333333",
       "cnae": "",
       "id": 23
-    },
-    {
-      "nome": "Unidade Teste",
-      "cnpj": "22.333.333/3333-33",
-      "cnae": "2323-2/32",
-      "id": 24
     }
   ],
   "profissionais-de-saude": [
@@ -253,105 +247,105 @@
       "nome": "Ana Silva",
       "email": "ana.silva@example.com",
       "endereco": "Rua das Flores, 123, São Paulo, SP",
-      "telefone": "5511987654321"
+      "telefone": "11987654321"
     },
     {
       "id": 2,
       "nome": "Carlos Souza",
       "email": "carlos.souza@example.com",
       "endereco": "Avenida Brasil, 456, Rio de Janeiro, RJ",
-      "telefone": "(21) 92345-6789"
+      "telefone": "21923456789"
     },
     {
       "id": 3,
       "nome": "Mariana Oliveira",
       "email": "mariana.oliveira@example.com",
       "endereco": "Rua da Paz, 789, Belo Horizonte, MG",
-      "telefone": "(31) 93456-7890"
+      "telefone": "31934567890"
     },
     {
       "id": 4,
       "nome": "João Ferreira",
       "email": "joao.ferreira@example.com",
       "endereco": "Rua Central, 111, Curitiba, PR",
-      "telefone": "(41) 91234-5678"
+      "telefone": "41912345678"
     },
     {
       "id": 5,
       "nome": "Fernanda Lima",
       "email": "fernanda.lima@example.com",
       "endereco": "Rua das Laranjeiras, 202, Porto Alegre, RS",
-      "telefone": "(51) 99876-5432"
+      "telefone": "51998765432"
     },
     {
       "id": 6,
       "nome": "Gustavo Mendes",
       "email": "gustavo.mendes@example.com",
       "endereco": "Avenida Paulista, 333, São Paulo, SP",
-      "telefone": "(11) 95678-1234"
+      "telefone": "11956781234"
     },
     {
       "id": 7,
       "nome": "Juliana Costa",
       "email": "juliana.costa@example.com",
       "endereco": "Rua Bela Vista, 777, Salvador, BA",
-      "telefone": "(71) 93456-1234"
+      "telefone": "71934561234"
     },
     {
       "id": 8,
       "nome": "Paulo Almeida",
       "email": "paulo.almeida@example.com",
       "endereco": "Avenida Atlântica, 404, Fortaleza, CE",
-      "telefone": "(85) 98876-5432"
+      "telefone": "85988765432"
     },
     {
       "id": 9,
       "nome": "Larissa Pereira",
       "email": "larissa.pereira@example.com",
       "endereco": "Rua das Palmeiras, 909, Recife, PE",
-      "telefone": "(81) 93456-7890"
+      "telefone": "81934567890"
     },
     {
       "id": 10,
       "nome": "Ricardo Nogueira",
       "email": "ricardo.nogueira@example.com",
-      "telefone": "(92) 91234-5678",
+      "telefone": "92912345678",
       "endereco": "Rua do Sol, 515, Manaus, AM"
-    },
-    {
-      "nome": "Paciente teste2",
-      "email": "paciente.teste2@email.com",
-      "telefone": "(21) 99999-0000",
-      "endereco": "Rua teste 2",
-      "id": 11
-    },
-    {
-      "nome": "Juliana",
-      "email": "juliana@gmail.com",
-      "telefone": "(21) 99148-9682",
-      "endereco": "Endereço teste",
-      "id": 12
     },
     {
       "nome": "Fabíola Lemos",
       "email": "fp.lemos@gmail.com",
-      "telefone": "(21) 98839-9594",
+      "telefone": "21988399594",
       "endereco": "",
       "id": 13
     },
     {
       "nome": "Villarzinho",
       "email": "villarzinho@gmail.com",
-      "telefone": "(21) 98828-1616",
+      "telefone": "21988281616",
       "endereco": "",
       "id": 14
     },
     {
       "nome": "Juliana Braz",
       "email": "ju.braz@gmail.com",
-      "telefone": "(21) 99148-9682",
+      "telefone": "21991489682",
       "endereco": "",
       "id": 15
+    },
+    {
+      "nome": "Paciente teste",
+      "email": "paciente.teste@email.com",
+      "telefone": "21999999999",
+      "endereco": "",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "nome": "Bruno Costa",
+      "email": "bc.costa@gmail.com",
+      "telefone": "21981255709",
+      "endereco": ""
     }
   ],
   "servicos": [
@@ -588,10 +582,55 @@
   "unidades-de-saude-servicos": [
     {
       "unidadeDeSaude": {
-        "id": 4,
-        "nome": "Clínica Cuidar Mais",
-        "cnpj": "45.678.901/0001-04",
-        "cnae": "8621-8/04"
+        "id": 1,
+        "nome": "Clínica Saúde Total",
+        "cnpj": "12345678000101",
+        "cnae": "8621801"
+      },
+      "servico": {
+        "id": 1,
+        "nome": "Atendimento médico",
+        "descricao": "Consulta com profissionais de saúde para diagnóstico e tratamento de doenças.",
+        "itemLabel": "Atendimento médico"
+      },
+      "id": 1
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 1,
+        "nome": "Clínica Saúde Total",
+        "cnpj": "12345678000101",
+        "cnae": "8621801"
+      },
+      "servico": {
+        "id": 2,
+        "nome": "Enfermagem",
+        "descricao": "Cuidados de enfermagem como administração de medicamentos, curativos e monitoramento de sinais vitais.",
+        "itemLabel": "Enfermagem"
+      },
+      "id": 2
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 1,
+        "nome": "Clínica Saúde Total",
+        "cnpj": "12345678000101",
+        "cnae": "8621801"
+      },
+      "servico": {
+        "id": 3,
+        "nome": "Exames laboratoriais",
+        "descricao": "Realização de exames para análise de amostras biológicas, como sangue, urina e fezes.",
+        "itemLabel": "Exames laboratoriais"
+      },
+      "id": 3
+    },
+    {
+      "unidadeDeSaude": {
+        "id": 1,
+        "nome": "Clínica Saúde Total",
+        "cnpj": "12345678000101",
+        "cnae": "8621801"
       },
       "servico": {
         "id": 4,
@@ -599,14 +638,14 @@
         "descricao": "Realização de exames como raios-X, ultrassonografia, tomografia e ressonância magnética.",
         "itemLabel": "Exames de imagem"
       },
-      "id": 1
+      "id": 4
     },
     {
       "unidadeDeSaude": {
-        "id": 4,
-        "nome": "Clínica Cuidar Mais",
-        "cnpj": "45.678.901/0001-04",
-        "cnae": "8621-8/04"
+        "id": 1,
+        "nome": "Clínica Saúde Total",
+        "cnpj": "12345678000101",
+        "cnae": "8621801"
       },
       "servico": {
         "id": 5,
@@ -614,188 +653,33 @@
         "descricao": "Assistência a pacientes com condições graves ou que exigem cuidados médicos imediatos.",
         "itemLabel": "Atendimento de urgência e emergência"
       },
-      "id": 2
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 2,
-        "nome": "Enfermagem",
-        "descricao": "Cuidados de enfermagem como administração de medicamentos, curativos e monitoramento de sinais vitais."
-      },
-      "id": 3
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 6,
-        "nome": "Consultas especializadas",
-        "descricao": "Atendimento com médicos especialistas, como cardiologistas, dermatologistas, pediatras, entre outros."
-      },
-      "id": 4
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 5,
-        "nome": "Atendimento de urgência e emergência",
-        "descricao": "Assistência a pacientes com condições graves ou que exigem cuidados médicos imediatos."
-      },
       "id": 5
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 8,
-        "nome": "Reabilitação física",
-        "descricao": "Tratamentos para recuperação de movimentos e capacidades físicas após lesões ou cirurgias."
-      },
-      "id": 6
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 11,
-        "nome": "Serviço teste",
-        "descricao": "Testando5!"
-      },
-      "id": 7
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 4,
-        "nome": "Exames de imagem",
-        "descricao": "Realização de exames como raios-X, ultrassonografia, tomografia e ressonância magnética."
-      },
-      "id": 8
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 1,
-        "nome": "Atendimento médico",
-        "descricao": "Consulta com profissionais de saúde para diagnóstico e tratamento de doenças."
-      },
-      "id": 9
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 3,
-        "nome": "Exames laboratoriais",
-        "descricao": "Realização de exames para análise de amostras biológicas, como sangue, urina e fezes."
-      },
-      "id": 10
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 7,
-        "nome": "Vacinação",
-        "descricao": "Administração de vacinas para prevenção de doenças."
-      },
-      "id": 11
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 9,
-        "nome": "Saúde mental",
-        "descricao": "Consultas e tratamentos para questões relacionadas à saúde mental, incluindo terapia psicológica e psiquiátrica."
-      },
-      "id": 12
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 8,
-        "nome": "Clínica Viver Bem",
-        "cnpj": "89.012.345/0001-08",
-        "cnae": "8621-8/08"
-      },
-      "servico": {
-        "id": 10,
-        "nome": "Odontologia",
-        "descricao": "Atendimento odontológico, incluindo limpeza, restaurações, extrações e outros cuidados dentários."
-      },
-      "id": 13
     }
   ],
   "usuarios": [
     {
+      "id": 1,
       "nome": "Fabíola Lemos",
       "usuario": "fabiola.lemos",
+      "senha": "Rapido00",
       "email": "fabiola.lemos@gmail.com",
-      "senha": "R@pido00",
+      "telefone": "21988253400",
       "perfilDeAcesso": {
-        "nome": "Acesso customizado",
-        "descricao": "Testando tipos de acesso.",
-        "id": 5
-      },
-      "id": 1,
-      "telefone": "(21) 98825-3400"
+        "id": 5,
+        "nome": "Acesso customizado"
+      }
     },
     {
+      "id": 2,
       "nome": "Bruno Costa",
       "usuario": "bc.costa",
+      "senha": "Rapido00",
       "email": "bc.costa@gmail.com",
-      "senha": "R@pido00",
+      "telefone": "21981255709",
       "perfilDeAcesso": {
         "id": 1,
         "nome": "Administrador"
-      },
-      "id": 2,
-      "telefone": "(21) 98125-5709"
+      }
     },
     {
       "id": 3,
@@ -803,7 +687,7 @@
       "usuario": "imed.teste",
       "senha": "imed2025",
       "email": "imed.teste@gmail.com",
-      "telefone": "(21) 90012-3345",
+      "telefone": "21900123345",
       "perfilDeAcesso": {
         "id": 5,
         "nome": "Acesso customizado"
@@ -819,7 +703,7 @@
         "nome": "Recepcionista"
       },
       "id": 4,
-      "telefone": "(21) 93345-6099"
+      "telefone": "21933456099"
     },
     {
       "nome": "Recepcionista Teste",
@@ -831,57 +715,52 @@
         "nome": "Recepcionista"
       },
       "id": 5,
-      "telefone": "(21) 98876-5433"
+      "telefone": "21988765433"
     }
   ],
   "modulos": [
     {
       "id": 1,
-      "nome": "Home",
-      "caminho": ""
-    },
-    {
-      "id": 2,
       "nome": "Dashboard",
       "caminho": ""
     },
     {
-      "id": 3,
+      "id": 2,
       "nome": "Atendimento",
       "caminho": ""
     },
     {
-      "id": 4,
+      "id": 3,
       "nome": "Laudo",
       "caminho": ""
     },
     {
-      "id": 5,
+      "id": 4,
       "nome": "Faturamento",
       "caminho": ""
     },
     {
-      "id": 6,
+      "id": 5,
       "nome": "Financeiro",
       "caminho": ""
     },
     {
-      "id": 7,
+      "id": 6,
       "nome": "Estoque",
       "caminho": ""
     },
     {
-      "id": 8,
+      "id": 7,
       "nome": "Relatório",
       "caminho": ""
     },
     {
-      "id": 9,
+      "id": 8,
       "nome": "Chat",
       "caminho": ""
     },
     {
-      "id": 10,
+      "id": 9,
       "nome": "Configurações",
       "caminho": ""
     }
@@ -891,55 +770,55 @@
       "id": 1,
       "nome": "Unidade de Saúde",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 2,
       "nome": "Profissional de Saúde",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 3,
       "nome": "Paciente",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 4,
       "nome": "Serviço",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 5,
       "nome": "Especialidade",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 6,
       "nome": "Procedimento",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 7,
       "nome": "Convênio",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 8,
       "nome": "Perfil de Acesso",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     },
     {
       "id": 9,
       "nome": "Usuário",
       "caminho": "",
-      "moduloId": 10
+      "moduloId": 9
     }
   ],
   "perfis-de-acesso": [
@@ -971,24 +850,24 @@
   ],
   "perfis-de-acesso-permissoes": [
     {
+      "id": 1,
       "perfilDeAcesso": {
         "id": 1,
         "nome": "Administrador"
       },
       "modulo": {
-        "id": 10,
+        "id": 9,
         "nome": "Configurações"
       },
       "subModulo": {
         "id": -1,
-        "nome": "",
+        "nome": "Todos",
         "moduloId": -1
       },
       "permissaoTipo": {
         "valor": 30,
         "nome": "Todas"
-      },
-      "id": 1
+      }
     },
     {
       "id": 2,
@@ -997,13 +876,13 @@
         "nome": "Recepcionista"
       },
       "modulo": {
-        "id": 10,
+        "id": 9,
         "nome": "Configurações"
       },
       "subModulo": {
         "id": 3,
         "nome": "Paciente",
-        "moduloId": 10
+        "moduloId": 9
       },
       "permissaoTipo": {
         "valor": 2,
@@ -1011,24 +890,24 @@
       }
     },
     {
+      "id": 3,
       "perfilDeAcesso": {
         "id": 5,
         "nome": "Acesso customizado"
       },
       "modulo": {
-        "id": 10,
-        "nome": "Configurações"
+        "id": 8,
+        "nome": "Chat"
       },
       "subModulo": {
         "id": -1,
-        "nome": "",
+        "nome": "Todos",
         "moduloId": -1
       },
       "permissaoTipo": {
-        "valor": 2,
-        "nome": "Visualização"
-      },
-      "id": 3
+        "valor": 30,
+        "nome": "Todas"
+      }
     },
     {
       "perfilDeAcesso": {
@@ -1036,13 +915,13 @@
         "nome": "Perfil teste"
       },
       "modulo": {
-        "id": 10,
+        "id": 9,
         "nome": "Configurações"
       },
       "subModulo": {
         "id": 9,
         "nome": "Usuário",
-        "moduloId": 10
+        "moduloId": 9
       },
       "permissaoTipo": {
         "valor": 2,
@@ -1051,104 +930,44 @@
       "id": 4
     },
     {
+      "id": 5,
       "perfilDeAcesso": {
         "id": 1,
         "nome": "Administrador"
       },
       "modulo": {
         "id": 1,
-        "nome": "Home"
-      },
-      "subModulo": {
-        "id": -1,
-        "nome": "",
-        "moduloId": -1
-      },
-      "permissaoTipo": {
-        "valor": 2,
-        "nome": "Visualização"
-      },
-      "id": 5
-    },
-    {
-      "perfilDeAcesso": {
-        "id": 1,
-        "nome": "Administrador"
-      },
-      "modulo": {
-        "id": 3,
-        "nome": "Atendimento"
-      },
-      "subModulo": {
-        "id": -1,
-        "nome": "",
-        "moduloId": -1
-      },
-      "permissaoTipo": {
-        "valor": 2,
-        "nome": "Visualização"
-      },
-      "id": 7
-    },
-    {
-      "perfilDeAcesso": {
-        "id": 1,
-        "nome": "Administrador"
-      },
-      "modulo": {
-        "id": 2,
         "nome": "Dashboard"
       },
       "subModulo": {
         "id": -1,
-        "nome": "",
+        "nome": "Todos",
         "moduloId": -1
       },
       "permissaoTipo": {
         "valor": 2,
         "nome": "Visualização"
-      },
-      "id": 8
+      }
     },
     {
-      "perfilDeAcesso": {
-        "id": 5,
-        "nome": "Acesso customizado"
-      },
-      "modulo": {
-        "id": 8,
-        "nome": "Relatório"
-      },
-      "subModulo": {
-        "id": -1,
-        "nome": "",
-        "moduloId": -1
-      },
-      "permissaoTipo": {
-        "valor": 30,
-        "nome": "Todas"
-      },
-      "id": 9
-    },
-    {
+      "id": 6,
       "perfilDeAcesso": {
         "id": 1,
         "nome": "Administrador"
       },
       "modulo": {
-        "id": 9,
+        "id": 8,
         "nome": "Chat"
       },
       "subModulo": {
         "id": -1,
-        "nome": "",
+        "nome": "Todos",
         "moduloId": -1
       },
       "permissaoTipo": {
         "valor": 30,
         "nome": "Todas"
-      },
-      "id": 10
+      }
     }
   ],
   "contatos": [
@@ -1160,233 +979,132 @@
   ],
   "chats-whatsapp": [
     {
-      "id": 1,
-      "mensagem": "Mensagem enviada!",
-      "telefone": "5521981255709",
-      "datIncl": "2025-04-02 16:34:54",
-      "zaapId": "3999984263738042930CD6ECDE9VDWSA",
-      "messageId": "D241XXXX732339502B68",
-      "type": "DeliveryCallback",
-      "pacienteId": null,
-      "usuarioId": null
-    },
-    {
-      "id": 2,
-      "mensagem": "Mensagem recebida!",
+      "mensagem": "Testando mensagem de recebimento!",
       "telefone": "5511987654321",
-      "datIncl": "2025-04-02 16:35:54",
-      "zaapId": "3999984263738042930CD6ECDE9VDWSA",
-      "messageId": "D241XXXX732339502B68",
       "type": "ReceivedCallback",
-      "pacienteId": null,
-      "usuarioId": null
+      "status": "READ",
+      "datIncl": "2025-04-14T18:20:22.281Z",
+      "pacienteId": 1,
+      "usuarioId": 3,
+      "id": 2
     },
     {
       "mensagem": "Testando mensagem de envio!",
-      "telefone": "5521981255709",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
+      "status": "READ",
       "datIncl": "2025-04-14T18:24:22.281Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 3
     },
     {
       "mensagem": "Estou aguardando o seu retorno!",
-      "telefone": "5521981255709",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
+      "status": "SENT",
       "datIncl": "2025-04-14T18:24:48.304Z",
       "pacienteId": 2,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 4
     },
     {
       "mensagem": "Testando mensagem de envio!",
-      "telefone": "5521981255709",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
+      "status": "READ",
       "datIncl": "2025-04-14T18:53:42.329Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 5
     },
     {
       "mensagem": "Testando mensagem de envio!",
-      "telefone": "5521981255709",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
+      "status": "SENT",
       "datIncl": "2025-04-14T18:53:47.848Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 6
     },
     {
-      "mensagem": "Testando mensagem de envio!",
-      "telefone": "5521981255709",
+      "mensagem": "😆😁",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
-      "datIncl": "2025-04-14T18:53:51.369Z",
+      "status": "READ",
+      "datIncl": "2025-04-16T15:03:32.117Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 7
     },
     {
       "mensagem": "Teste",
-      "telefone": "5521981255709",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T14:59:03.303Z",
+      "status": "READ",
+      "datIncl": "2025-04-16T16:24:40.771Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 8
     },
     {
-      "mensagem": "Testando mensagem de envio!",
-      "telefone": "5521981255709",
+      "mensagem": "Teste de uma nova mensagem! 🤪",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T18:25:04.195Z",
+      "status": "RECEIVED",
+      "datIncl": "2025-04-16T20:26:02.509Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 9
     },
     {
-      "mensagem": "Teste",
-      "telefone": "5521981255709",
+      "mensagem": "Testando um novo envio",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T18:39:55.759Z",
+      "status": "READ",
+      "datIncl": "2025-04-25T22:24:14.209Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 10
     },
     {
-      "mensagem": "Novo teste",
-      "telefone": "5521981255709",
+      "mensagem": "Testando mais um novo envio",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T18:40:08.780Z",
+      "status": "READ",
+      "datIncl": "2025-04-25T22:30:06.168Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 11
     },
     {
-      "mensagem": "Teste",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T19:31:14.659Z",
+      "mensagem": "Ok, recebi a sua mensagem!",
+      "telefone": "11987654321",
+      "type": "ReceivedCallback",
+      "status": "READ",
+      "datIncl": "2025-04-25T22:30:13.407Z",
       "pacienteId": 1,
-      "usuarioId": 2,
       "id": 12
     },
     {
-      "mensagem": "Teste",
-      "telefone": "5521981255709",
+      "mensagem": "Ok!",
+      "telefone": "21900123345",
       "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T19:31:16.000Z",
+      "status": "READ",
+      "datIncl": "2025-04-25T22:44:57.699Z",
       "pacienteId": 1,
-      "usuarioId": 2,
+      "usuarioId": 3,
       "id": 13
     },
     {
-      "mensagem": "Teste de um novo envio!",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T20:08:31.753Z",
+      "mensagem": "Ok, recebi a sua mensagem!",
+      "telefone": "11987654321",
+      "type": "ReceivedCallback",
+      "status": "READ",
+      "datIncl": "2025-04-25T22:45:06.008Z",
       "pacienteId": 1,
-      "usuarioId": 2,
       "id": 14
-    },
-    {
-      "mensagem": "Mais uma nova mensagem",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T20:21:35.283Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 15
-    },
-    {
-      "mensagem": "Texto",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T20:45:11.934Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 16
-    },
-    {
-      "mensagem": "Mais uma nova mensagem!",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T20:54:16.377Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 17
-    },
-    {
-      "mensagem": "Mais uma nova mensagem!",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-15T21:51:38.181Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 18
-    },
-    {
-      "mensagem": "Outra nova mensagem!",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-16T14:10:14.420Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 19
-    },
-    {
-      "mensagem": "Teste 😁😆😃",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-16T14:47:17.676Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 20
-    },
-    {
-      "mensagem": "😆😁",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-16T15:03:32.117Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 21
-    },
-    {
-      "mensagem": "Teste",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-16T16:24:40.771Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 22
-    },
-    {
-      "mensagem": "Teste",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-16T16:24:44.982Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 23
-    },
-    {
-      "mensagem": "Teste😃",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-16T16:24:57.245Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 24
-    },
-    {
-      "mensagem": "Teste de uma nova mensagem! 🤪",
-      "telefone": "5521981255709",
-      "type": "DeliveryCallback",
-      "datIncl": "2025-04-16T20:26:02.509Z",
-      "pacienteId": 1,
-      "usuarioId": 2,
-      "id": 25
     }
   ]
 }
