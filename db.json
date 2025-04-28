@@ -327,21 +327,14 @@
       "id": 14
     },
     {
-      "nome": "Juliana Braz",
-      "email": "ju.braz@gmail.com",
-      "telefone": "21991489682",
-      "endereco": "",
-      "id": 15
-    },
-    {
       "nome": "Paciente teste",
       "email": "paciente.teste@email.com",
       "telefone": "21999999999",
       "endereco": "",
-      "id": 16
+      "id": 15
     },
     {
-      "id": 17,
+      "id": 16,
       "nome": "Bruno Costa",
       "email": "bc.costa@gmail.com",
       "telefone": "21981255709",
@@ -1096,15 +1089,6 @@
       "pacienteId": 1,
       "usuarioId": 3,
       "id": 13
-    },
-    {
-      "mensagem": "Ok, recebi a sua mensagem!",
-      "telefone": "11987654321",
-      "type": "ReceivedCallback",
-      "status": "READ",
-      "datIncl": "2025-04-25T22:45:06.008Z",
-      "pacienteId": 1,
-      "id": 14
     }
   ]
 }
