@@ -901,7 +901,7 @@
       },
       "subModulo": {
         "id": -1,
-        "nome": "Todos",
+        "nome": "",
         "moduloId": -1
       },
       "permissaoTipo": {
@@ -941,7 +941,7 @@
       },
       "subModulo": {
         "id": -1,
-        "nome": "Todos",
+        "nome": "",
         "moduloId": -1
       },
       "permissaoTipo": {
@@ -961,7 +961,7 @@
       },
       "subModulo": {
         "id": -1,
-        "nome": "Todos",
+        "nome": "",
         "moduloId": -1
       },
       "permissaoTipo": {
