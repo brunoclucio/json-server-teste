@@ -694,18 +694,6 @@
       }
     },
     {
-      "nome": "Juliana Braz",
-      "usuario": "ju.braz",
-      "email": "ju.braz@email.com",
-      "senha": "Jujubinha",
-      "perfilDeAcesso": {
-        "id": 3,
-        "nome": "Recepcionista"
-      },
-      "id": 4,
-      "telefone": "21933456099"
-    },
-    {
       "nome": "Recepcionista Teste",
       "usuario": "recepcionista.teste",
       "email": "recepcionista.teste@gmail.com",
@@ -716,6 +704,30 @@
       },
       "id": 5,
       "telefone": "21988765433"
+    },
+    {
+      "nome": "Fabio Uchoa",
+      "usuario": "villar.uchoa",
+      "senha": "Rapido00",
+      "email": "villarzinho@gmail.com",
+      "telefone": "21999999999",
+      "perfilDeAcesso": {
+        "id": 3,
+        "nome": "Recepcionista"
+      },
+      "id": 6
+    },
+    {
+      "nome": "Matheus Silva",
+      "usuario": "matheus.silva",
+      "senha": "12345678",
+      "email": "matheus.silva@gmail.com",
+      "telefone": "21999999999",
+      "perfilDeAcesso": {
+        "id": 5,
+        "nome": "Acesso customizado"
+      },
+      "id": 7
     }
   ],
   "modulos": [
@@ -910,26 +922,6 @@
       }
     },
     {
-      "perfilDeAcesso": {
-        "id": 6,
-        "nome": "Perfil teste"
-      },
-      "modulo": {
-        "id": 9,
-        "nome": "Configurações"
-      },
-      "subModulo": {
-        "id": 9,
-        "nome": "Usuário",
-        "moduloId": 9
-      },
-      "permissaoTipo": {
-        "valor": 2,
-        "nome": "Visualização"
-      },
-      "id": 4
-    },
-    {
       "id": 5,
       "perfilDeAcesso": {
         "id": 1,
@@ -968,6 +960,46 @@
         "valor": 30,
         "nome": "Todas"
       }
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 5,
+        "nome": "Acesso customizado"
+      },
+      "modulo": {
+        "id": 1,
+        "nome": "Dashboard"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      },
+      "id": 7
+    },
+    {
+      "perfilDeAcesso": {
+        "id": 5,
+        "nome": "Acesso customizado"
+      },
+      "modulo": {
+        "id": 9,
+        "nome": "Configurações"
+      },
+      "subModulo": {
+        "id": -1,
+        "nome": "Todos",
+        "moduloId": -1
+      },
+      "permissaoTipo": {
+        "valor": 2,
+        "nome": "Visualização"
+      },
+      "id": 8
     }
   ],
   "contatos": [
@@ -977,26 +1009,5 @@
       "telefone": "(11) 95678-1234"
     }
   ],
-  "chats-whatsapp": [
-    {
-      "mensagem": "Testando um novo envio",
-      "telefone": "21981255709",
-      "type": "DeliveryCallback",
-      "status": "READ",
-      "datIncl": "2025-04-30T21:21:31.764Z",
-      "pacienteId": 5521991489682,
-      "usuarioId": 2,
-      "id": 1
-    },
-    {
-      "mensagem": "Ok, recebi a sua mensagem!",
-      "telefone": "5521991489682",
-      "type": "ReceivedCallback",
-      "status": "READ",
-      "datIncl": "2025-04-30T21:21:39.812Z",
-      "pacienteId": 5521991489682,
-      "usuarioId": 2,
-      "id": 2
-    }
-  ]
+  "chats-whatsapp": []
 }
