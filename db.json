@@ -1,144 +1,144 @@
 {
   "unidades-de-saude": [
-    {
-      "id": 1,
-      "nome": "Clínica Saúde Total",
-      "cnpj": "12345678000101",
-      "cnae": "8621801"
-    },
-    {
-      "id": 2,
-      "nome": "Clínica Vida Plena",
-      "cnpj": "23456789000102",
-      "cnae": "8621802"
-    },
-    {
-      "id": 3,
-      "nome": "Clínica Bem Estar",
-      "cnpj": "34567890000103",
-      "cnae": "8621803"
-    },
-    {
-      "id": 4,
-      "nome": "Clínica Cuidar Mais",
-      "cnpj": "45678901000104",
-      "cnae": "8621804"
-    },
-    {
-      "id": 5,
-      "nome": "Clínica Nova Esperança",
-      "cnpj": "56789012000105",
-      "cnae": "8621805"
-    },
-    {
-      "id": 6,
-      "nome": "Clínica Mais Saúde",
-      "cnpj": "67890123000106",
-      "cnae": "8621806"
-    },
-    {
-      "nome": "Clínica Saúde Integral",
-      "cnpj": "78901234000107",
-      "cnae": "8621807",
-      "id": 7
-    },
-    {
-      "id": 8,
-      "nome": "Clínica Viver Bem",
-      "cnpj": "89012345000108",
-      "cnae": "8621808"
-    },
-    {
-      "id": 9,
-      "nome": "Clínica Saúde em Dia",
-      "cnpj": "90123456000109",
-      "cnae": "8621809"
-    },
-    {
-      "id": 10,
-      "nome": "Clínica Vida Longa",
-      "cnpj": "55555555555555",
-      "cnae": "1111111"
-    },
-    {
-      "id": 11,
-      "nome": "Consultório Vida Saudável",
-      "cnpj": "12345678000111",
-      "cnae": "8621801"
-    },
-    {
-      "id": 12,
-      "nome": "Consultório Bem Estar",
-      "cnpj": "23456789000112",
-      "cnae": "8621802"
-    },
-    {
-      "id": 13,
-      "nome": "Consultório Saúde Total",
-      "cnpj": "34567890000113",
-      "cnae": "8621803"
-    },
-    {
-      "id": 14,
-      "nome": "Consultório Vida Plena",
-      "cnpj": "45678901000114",
-      "cnae": "8621804"
-    },
-    {
-      "id": 15,
-      "nome": "Consultório Nova Esperança",
-      "cnpj": "56789012000115",
-      "cnae": "8621805"
-    },
-    {
-      "id": 16,
-      "nome": "Consultório Cuidar Mais",
-      "cnpj": "67890123000116",
-      "cnae": "8621806"
-    },
-    {
-      "id": 17,
-      "nome": "Consultório Saúde em Dia",
-      "cnpj": "78901234000117",
-      "cnae": "8621807"
-    },
-    {
-      "id": 18,
-      "nome": "Consultório Médico Central",
-      "cnpj": "89012345000118",
-      "cnae": "8621808"
-    },
-    {
-      "id": 19,
-      "nome": "Consultório Mais Saúde2",
-      "cnpj": "22333333333333",
-      "cnae": "8621800"
-    },
-    {
-      "id": 20,
-      "nome": "Consultório Saúde Integral",
-      "cnpj": "01234567000120",
-      "cnae": "8621810"
-    },
-    {
-      "id": 21,
-      "nome": "Ambulatório Geral",
-      "cnpj": "02345678000121",
-      "cnae": "8630501"
-    },
-    {
-      "id": 22,
-      "nome": "Ambulatório Vida Nova",
-      "cnpj": "13456789000122",
-      "cnae": "8630505"
-    },
-    {
-      "nome": "Clínica teste",
-      "cnpj": "22333333333333",
-      "cnae": "",
-      "id": 23
-    }
-  ],
+  {
+    "id": 1,
+    "nome": "Clínica Saúde Total",
+    "cnpj": "12.345.678/0001-01",
+    "cnae": "8621-8/01"
+  },
+  {
+    "id": 2,
+    "nome": "Clínica Vida Plena",
+    "cnpj": "23.456.789/0001-02",
+    "cnae": "8621-8/02"
+  },
+  {
+    "id": 3,
+    "nome": "Clínica Bem Estar",
+    "cnpj": "34.567.890/0001-03",
+    "cnae": "8621-8/03"
+  },
+  {
+    "id": 4,
+    "nome": "Clínica Cuidar Mais",
+    "cnpj": "45.678.901/0001-04",
+    "cnae": "8621-8/04"
+  },
+  {
+    "id": 5,
+    "nome": "Clínica Nova Esperança",
+    "cnpj": "56.789.012/0001-05",
+    "cnae": "8621-8/05"
+  },
+  {
+    "id": 6,
+    "nome": "Clínica Mais Saúde",
+    "cnpj": "67.890.123/0001-06",
+    "cnae": "8621-8/06"
+  },
+  {
+    "nome": "Clínica Saúde Integral",
+    "cnpj": "78.901.234/0001-07",
+    "cnae": "8621-8/07",
+    "id": 7
+  },
+  {
+    "id": 8,
+    "nome": "Clínica Viver Bem",
+    "cnpj": "89.012.345/0001-08",
+    "cnae": "8621-8/08"
+  },
+  {
+    "id": 9,
+    "nome": "Clínica Saúde em Dia",
+    "cnpj": "90.123.456/0001-09",
+    "cnae": "8621-8/09"
+  },
+  {
+    "id": 10,
+    "nome": "Clínica Vida Longa",
+    "cnpj": "55.555.555/5555-55",
+    "cnae": "1111-1/11"
+  },
+  {
+    "id": 11,
+    "nome": "Consultório Vida Saudável",
+    "cnpj": "12.345.678/0001-11",
+    "cnae": "8621-8/01"
+  },
+  {
+    "id": 12,
+    "nome": "Consultório Bem Estar",
+    "cnpj": "23.456.789/0001-12",
+    "cnae": "8621-8/02"
+  },
+  {
+    "id": 13,
+    "nome": "Consultório Saúde Total",
+    "cnpj": "34.567.890/0001-13",
+    "cnae": "8621-8/03"
+  },
+  {
+    "id": 14,
+    "nome": "Consultório Vida Plena",
+    "cnpj": "45.678.901/0001-14",
+    "cnae": "8621-8/04"
+  },
+  {
+    "id": 15,
+    "nome": "Consultório Nova Esperança",
+    "cnpj": "56.789.012/0001-15",
+    "cnae": "8621-8/05"
+  },
+  {
+    "id": 16,
+    "nome": "Consultório Cuidar Mais",
+    "cnpj": "67.890.123/0001-16",
+    "cnae": "8621-8/06"
+  },
+  {
+    "id": 17,
+    "nome": "Consultório Saúde em Dia",
+    "cnpj": "78.901.234/0001-17",
+    "cnae": "8621-8/07"
+  },
+  {
+    "id": 18,
+    "nome": "Consultório Médico Central",
+    "cnpj": "89.012.345/0001-18",
+    "cnae": "8621-8/08"
+  },
+  {
+    "id": 19,
+    "nome": "Consultório Mais Saúde2",
+    "cnpj": "22.333.333/3333-33",
+    "cnae": "8621-8/00"
+  },
+  {
+    "id": 20,
+    "nome": "Consultório Saúde Integral",
+    "cnpj": "01.234.567/0001-20",
+    "cnae": "8621-8/10"
+  },
+  {
+    "id": 21,
+    "nome": "Ambulatório Geral",
+    "cnpj": "02.345.678/0001-21",
+    "cnae": "8630-5/01"
+  },
+  {
+    "id": 22,
+    "nome": "Ambulatório Vida Nova",
+    "cnpj": "13.456.789/0001-22",
+    "cnae": "8630-5/05"
+  },
+  {
+    "nome": "Clínica teste",
+    "cnpj": "22.333.333/3333-33",
+    "cnae": "",
+    "id": 23
+  }
+],
   "profissionais-de-saude": [
     {
       "id": 1,
@@ -242,112 +242,119 @@
     }
   ],
   "pacientes": [
-    {
-      "id": 1,
-      "nome": "Ana Silva",
-      "email": "ana.silva@example.com",
-      "endereco": "Rua das Flores, 123, São Paulo, SP",
-      "telefone": "11987654321"
-    },
-    {
-      "id": 2,
-      "nome": "Carlos Souza",
-      "email": "carlos.souza@example.com",
-      "endereco": "Avenida Brasil, 456, Rio de Janeiro, RJ",
-      "telefone": "21923456789"
-    },
-    {
-      "id": 3,
-      "nome": "Mariana Oliveira",
-      "email": "mariana.oliveira@example.com",
-      "endereco": "Rua da Paz, 789, Belo Horizonte, MG",
-      "telefone": "31934567890"
-    },
-    {
-      "id": 4,
-      "nome": "João Ferreira",
-      "email": "joao.ferreira@example.com",
-      "endereco": "Rua Central, 111, Curitiba, PR",
-      "telefone": "41912345678"
-    },
-    {
-      "id": 5,
-      "nome": "Fernanda Lima",
-      "email": "fernanda.lima@example.com",
-      "endereco": "Rua das Laranjeiras, 202, Porto Alegre, RS",
-      "telefone": "51998765432"
-    },
-    {
-      "id": 6,
-      "nome": "Gustavo Mendes",
-      "email": "gustavo.mendes@example.com",
-      "endereco": "Avenida Paulista, 333, São Paulo, SP",
-      "telefone": "11956781234"
-    },
-    {
-      "id": 7,
-      "nome": "Juliana Costa",
-      "email": "juliana.costa@example.com",
-      "endereco": "Rua Bela Vista, 777, Salvador, BA",
-      "telefone": "71934561234"
-    },
-    {
-      "id": 8,
-      "nome": "Paulo Almeida",
-      "email": "paulo.almeida@example.com",
-      "endereco": "Avenida Atlântica, 404, Fortaleza, CE",
-      "telefone": "85988765432"
-    },
-    {
-      "id": 9,
-      "nome": "Larissa Pereira",
-      "email": "larissa.pereira@example.com",
-      "endereco": "Rua das Palmeiras, 909, Recife, PE",
-      "telefone": "81934567890"
-    },
-    {
-      "id": 10,
-      "nome": "Ricardo Nogueira",
-      "email": "ricardo.nogueira@example.com",
-      "telefone": "92912345678",
-      "endereco": "Rua do Sol, 515, Manaus, AM"
-    },
-    {
-      "nome": "Fabíola Lemos",
-      "email": "fp.lemos@gmail.com",
-      "telefone": "21988399594",
-      "endereco": "",
-      "id": 13
-    },
-    {
-      "nome": "Villarzinho",
-      "email": "villarzinho@gmail.com",
-      "telefone": "21988281616",
-      "endereco": "",
-      "id": 14
-    },
-    {
-      "nome": "Juliana Braz",
-      "email": "ju.braz@gmail.com",
-      "telefone": "21991489682",
-      "endereco": "",
-      "id": 15
-    },
-    {
-      "nome": "Paciente teste",
-      "email": "paciente.teste@email.com",
-      "telefone": "21999999999",
-      "endereco": "",
-      "id": 16
-    },
-    {
-      "id": 17,
-      "nome": "Bruno Costa",
-      "email": "bc.costa@gmail.com",
-      "telefone": "21981255709",
-      "endereco": ""
-    }
-  ],
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "email": "ana.silva@example.com",
+    "endereco": "Rua das Flores, 123, São Paulo, SP",
+    "telefone": "(11) 98765-4321"
+  },
+  {
+    "id": 2,
+    "nome": "Carlos Souza",
+    "email": "carlos.souza@example.com",
+    "endereco": "Avenida Brasil, 456, Rio de Janeiro, RJ",
+    "telefone": "(21) 92345-6789"
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Oliveira",
+    "email": "mariana.oliveira@example.com",
+    "endereco": "Rua da Paz, 789, Belo Horizonte, MG",
+    "telefone": "(31) 93456-7890"
+  },
+  {
+    "id": 4,
+    "nome": "João Ferreira",
+    "email": "joao.ferreira@example.com",
+    "endereco": "Rua Central, 111, Curitiba, PR",
+    "telefone": "(41) 91234-5678"
+  },
+  {
+    "id": 5,
+    "nome": "Fernanda Lima",
+    "email": "fernanda.lima@example.com",
+    "endereco": "Rua das Laranjeiras, 202, Porto Alegre, RS",
+    "telefone": "(51) 99876-5432"
+  },
+  {
+    "id": 6,
+    "nome": "Gustavo Mendes",
+    "email": "gustavo.mendes@example.com",
+    "endereco": "Avenida Paulista, 333, São Paulo, SP",
+    "telefone": "(11) 95678-1234"
+  },
+  {
+    "id": 7,
+    "nome": "Juliana Costa",
+    "email": "juliana.costa@example.com",
+    "endereco": "Rua Bela Vista, 777, Salvador, BA",
+    "telefone": "(71) 93456-1234"
+  },
+  {
+    "id": 8,
+    "nome": "Paulo Almeida",
+    "email": "paulo.almeida@example.com",
+    "endereco": "Avenida Atlântica, 404, Fortaleza, CE",
+    "telefone": "(85) 98876-5432"
+  },
+  {
+    "id": 9,
+    "nome": "Larissa Pereira",
+    "email": "larissa.pereira@example.com",
+    "endereco": "Rua das Palmeiras, 909, Recife, PE",
+    "telefone": "(81) 93456-7890"
+  },
+  {
+    "id": 10,
+    "nome": "Ricardo Nogueira",
+    "email": "ricardo.nogueira@example.com",
+    "telefone": "(92) 91234-5678",
+    "endereco": "Rua do Sol, 515, Manaus, AM"
+  },
+  {
+    "nome": "Fabíola Lemos",
+    "email": "fp.lemos@gmail.com",
+    "telefone": "(21) 98839-9594",
+    "endereco": "",
+    "id": 13
+  },
+  {
+    "nome": "Villarzinho",
+    "email": "villarzinho@gmail.com",
+    "telefone": "(21) 98828-1616",
+    "endereco": "",
+    "id": 14
+  },
+  {
+    "nome": "Juliana Braz",
+    "email": "ju.braz@gmail.com",
+    "telefone": "(21) 99148-9682",
+    "endereco": "",
+    "id": 15
+  },
+  {
+    "nome": "Paciente teste",
+    "email": "paciente.teste@email.com",
+    "telefone": "(21) 99999-9999",
+    "endereco": "",
+    "id": 16
+  },
+  {
+    "id": 17,
+    "nome": "Bruno Costa",
+    "email": "bc.costa@gmail.com",
+    "telefone": "(21) 98125-5709",
+    "endereco": ""
+  },
+  {
+    "nome": "Fabíola Lemos",
+    "email": "fp.lemos@gmail.com",
+    "telefone": "",
+    "endereco": "",
+    "id": 18
+  }
+],
   "servicos": [
     {
       "id": 1,
@@ -580,81 +587,7 @@
     }
   ],
   "unidades-de-saude-servicos": [
-    {
-      "unidadeDeSaude": {
-        "id": 1,
-        "nome": "Clínica Saúde Total",
-        "cnpj": "12345678000101",
-        "cnae": "8621801"
-      },
-      "servico": {
-        "id": 1,
-        "nome": "Atendimento médico",
-        "descricao": "Consulta com profissionais de saúde para diagnóstico e tratamento de doenças.",
-        "itemLabel": "Atendimento médico"
-      },
-      "id": 1
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 1,
-        "nome": "Clínica Saúde Total",
-        "cnpj": "12345678000101",
-        "cnae": "8621801"
-      },
-      "servico": {
-        "id": 2,
-        "nome": "Enfermagem",
-        "descricao": "Cuidados de enfermagem como administração de medicamentos, curativos e monitoramento de sinais vitais.",
-        "itemLabel": "Enfermagem"
-      },
-      "id": 2
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 1,
-        "nome": "Clínica Saúde Total",
-        "cnpj": "12345678000101",
-        "cnae": "8621801"
-      },
-      "servico": {
-        "id": 3,
-        "nome": "Exames laboratoriais",
-        "descricao": "Realização de exames para análise de amostras biológicas, como sangue, urina e fezes.",
-        "itemLabel": "Exames laboratoriais"
-      },
-      "id": 3
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 1,
-        "nome": "Clínica Saúde Total",
-        "cnpj": "12345678000101",
-        "cnae": "8621801"
-      },
-      "servico": {
-        "id": 4,
-        "nome": "Exames de imagem",
-        "descricao": "Realização de exames como raios-X, ultrassonografia, tomografia e ressonância magnética.",
-        "itemLabel": "Exames de imagem"
-      },
-      "id": 4
-    },
-    {
-      "unidadeDeSaude": {
-        "id": 1,
-        "nome": "Clínica Saúde Total",
-        "cnpj": "12345678000101",
-        "cnae": "8621801"
-      },
-      "servico": {
-        "id": 5,
-        "nome": "Atendimento de urgência e emergência",
-        "descricao": "Assistência a pacientes com condições graves ou que exigem cuidados médicos imediatos.",
-        "itemLabel": "Atendimento de urgência e emergência"
-      },
-      "id": 5
-    }
+    
   ],
   "usuarios": [
     {
